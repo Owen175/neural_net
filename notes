@@ -1,1 +1,9 @@
-Goal: Make a neural network to recognise 
+Goal: Make a neural network to recognise mnist images from scratch with minimal inputs
+
+Weights are multiplied as you go down the net. If output1 is connected to input1 and input2, it's value is input1 * weight1_1 + input2 * weight2_1
+representing weights as weightinput_output
+biases are added onto the calculated output.
+
+
+Need an activation function.
+An activation function makes the output of each node standard - for example, for the sigmoid function, it is between 0 and 1.
