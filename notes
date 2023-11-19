@@ -7,3 +7,8 @@ biases are added onto the calculated output.
 
 Need an activation function.
 An activation function makes the output of each node standard - for example, for the sigmoid function, it is between 0 and 1.
+
+Cost function
+Tells the network how well it is doing with a defined numerical value.
+It incentivises certainty.
+Formula is (actual output - expected output) squared, to make it positive.
